@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sleleu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sebastien-leleu-a3a0781b0/) ![](https://komarev.com/ghpvc/?username=sleleu&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastien-leleu-aze/) ![](https://komarev.com/ghpvc/?username=sleleu&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
